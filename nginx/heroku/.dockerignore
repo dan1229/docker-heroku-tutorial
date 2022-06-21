@@ -1,0 +1,19 @@
+.git/
+.gitignore
+.next/                # Existing Next.js builds
+.out/
+coverage.xml
+node_modules/         # Installed inside container
+.ebextensions/*
+.elasticbeanstalk/*
+.env
+**/.env
+.DS_Store
+.coverage
+.dockerignore
+.python-version
+README.md
+Dockerrun.aws.json
+docs
+ghostdriver.log
+htmlcov
